@@ -1,2 +1,0 @@
-Het boek is in 2005 door Yves Angelo verfilmd. Zie voor de trailer:
-window.addEvent("domready", function(){var FO1269716298 = { movie:"http://www.youtube.com/v/CIdRZWdRQDQ", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1269716298, "divID1269716298");});

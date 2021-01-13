@@ -1,6 +1,0 @@
-Een boek over oorlog, liefde, bedrog, eenzaamheid, doorzettingsvermogen en TOEVAL.
-Lena Brücker.....ik hou van je.
-
-window.addEvent("domready", function(){var FO1267876587 = { movie:"http://www.youtube.com/v/Jb8ejGCAAY8", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1267876587, "divID1267876587");});
-
-Als je hebt genoten van De Voorlezer van Bernhard Schlink moet je zeker dít boek eens gaan lezen.

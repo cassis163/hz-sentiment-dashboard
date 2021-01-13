@@ -1,3 +1,0 @@
-Een mooi verhaal in drie delen dat zich afspeelt eind 19de eeuw in het Victoriaanse Londen. Nancy Astley wordt verliefd op Kitty Butler, maar die liefde wordt tevens haar ondergang.
-Sarah Waters kan ontzettend beeldend en boeiend vertellen en ondanks het feit dat ik het na deel 1 iets vond inzakken hield het boek mij in zijn greep van de eerste tot de laatste bladzijde!
-window.addEvent("domready", function(){var FO1273431011 = { movie:"http://www.youtube.com/v/yfXNw87_s3s", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1273431011, "divID1273431011");});

@@ -1,3 +1,0 @@
-window.addEvent("domready", function(){var FO1345404452 = { movie:"http://www.youtube.com/v/player_embedded&v", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1345404452, "divID1345404452");});
-
-Ik vond dit een prachtige roman en geef er 5 gouden sterren voor.

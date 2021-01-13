@@ -1,5 +1,0 @@
-Het bizarre verhaal van een Deens gezin, gezien door de ogen van de elfjarige zoon die de waarheid op zijn manier vertelt.
-
-window.addEvent("domready", function(){var FO1260711922 = { movie:"http://www.youtube.com/v/H8Q5MOR0qR8", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1260711922, "divID1260711922");});
-
-Goed verzonnen, zou je zeggen. Maar als blijkt dat het verhaal min of meer autobiografisch is krijg je er toch wel een heel ander gevoel over.

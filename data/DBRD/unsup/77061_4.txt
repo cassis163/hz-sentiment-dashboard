@@ -1,6 +1,0 @@
-Wat een mooi boek toch weer! Je vraagt je in het begin af wat je je moet voorstellen bij "honderdzesendertig dagen ervoor" en dat wordt ook pas duidelijk op "de laatste dag".
-Je gaat houden van deze pubers, die allemaal zo hun problemen hebben en daar op hun eigen manier mee omgaan.
-Een boek over onzekerheden, loyaliteit, vriendschap en verlies. Serieuze onderwerpen, maar voortdurend doorspekt met humor.
-Mooi boek.
-
-window.addEvent("domready", function(){var FO1320866456 = { movie:"http://www.youtube.com/v/r5k4pmeONkE", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1320866456, "divID1320866456");});

@@ -1,2 +1,0 @@
-Dit lijk me een indrukwekkend boek en heb het daarom op mijn verlanglijst gezet. Maria Genova is een sympathieke vrouw die ook heel actief is op Twitter.
-window.addEvent("domready", function(){var FO1284640968 = { movie:"http://www.youtube.com/v/22juiuXy4zs", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1284640968, "divID1284640968");});

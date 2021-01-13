@@ -1,7 +1,0 @@
-De hoofdpersoon is inderdaad niet pluis, en bovendien is hij, hier en daar, behoorlijk vol van zichzelf. Maar in dit geval kan ik hem vergeven, omdat hij een heerlijk spannend en avontuurlijk verhaal geschreven heeft. Ook is het een verademing dat er geen Amerikaans feelgood sausje er overheen gegaan is.
-
-Er is, zo ver ik weet nog een film in de planning met Johnny Depp in de hoofdrol, en hoewel Johnny Depp bij mij niet stuk kan, vraag ik me af of het een rol voor hem is.(in dit geval denk ik meer aan een stoere Clint Eastwood-
-of Steve Irwin type)
-
-
-window.addEvent("domready", function(){var FO1267735912 = { movie:"http://www.youtube.com/v/PoP5vvTU4oU", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1267735912, "divID1267735912");});

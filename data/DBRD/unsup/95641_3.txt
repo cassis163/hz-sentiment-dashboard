@@ -1,6 +1,0 @@
-Na een paar bladzijden lezen had ik echt zoiets van "Lamaar". Maar op de één of andere manier was ik toch ook wel benieuwd hoe het boek verder zou gaan. Het schijnt dat Lubach qua stijl aan Arnon Grunberg doet denken en dat als je een Grunberg-fan bent je niet aan Lubach moet beginnen.
-Nou ben ik geen Grunberg-fan en was het al heel lang geleden dat ik iets van hem had gelezen, dus hoefde ik me aan de stijl van Lubach niet te ergeren. Eerlijk gezegd vond ik het af en toe, naast de melancholie, best wel komisch in zinsgebruik.
-Ik denk eigenlijk dat het meer een boek is voor middelbare scholieren, maar dat mag niemand beletten om het te lezen als je dat toevallig graag zou willen.
-
-
-window.addEvent("domready", function(){var FO1257588660 = { movie:"http://www.youtube.com/v/dHrlH_bT04M", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1257588660, "divID1257588660");});

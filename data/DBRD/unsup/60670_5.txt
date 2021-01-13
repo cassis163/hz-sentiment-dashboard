@@ -1,1 +1,0 @@
-window.addEvent("domready", function(){var FO1270315257 = { movie:"http://www.youtube.com/v/tifTdk4qve0", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1270315257, "divID1270315257");});

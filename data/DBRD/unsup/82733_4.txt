@@ -1,6 +1,0 @@
-Dit boek leert je dat je niet moet luisteren naar vooroordelen en dat er achter ieder mens een "waarom" zit, namelijk: waarom hij zich gedraagt zoals hij zich gedraagt.
-Je wordt regelmatig op het verkeerde been gezet, maar aan het eind van het verhaal zijn al je vragen beantwoord.
-
-window.addEvent("domready", function(){var FO1310926631 = { movie:"http://www.youtube.com/v/gSNHCbJ64aw&feature", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1310926631, "divID1310926631");});
-
-Mooi boek.

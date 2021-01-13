@@ -1,4 +1,0 @@
-Ik vrees dat ik dit boek ten onrechte heb ingevoerd als jeugdboek, want het boek is geschikt voor kinderen vanaf 10 jaar en dan is het natuurlijk een kinderboek. Waarvoor mijn verontschuldigingen!
-Ik kan me voorstellen dat kinderen dit een reuze spannend boek vinden en maar dóór willen lezen om erachter te komen waarom Jente is aangespoeld. Ze kunnen zich ook goed met de hoofdpersonen identificeren, want het zou zo maar eens waargebeurd kunnen zijn!
-
-window.addEvent("domready", function(){var FO1294483282 = { movie:"http://www.youtube.com/v/0SB5VSm7Agc", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1294483282, "divID1294483282");});

@@ -1,3 +1,0 @@
-window.addEvent("domready", function(){var FO1269964071 = { movie:"http://www.youtube.com/v/NecVm1MwJqg", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1269964071, "divID1269964071");});
-
-Het boek is goed, maar het open einde vind ik erg onbevredigend!

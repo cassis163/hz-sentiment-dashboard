@@ -1,9 +1,0 @@
-Fiona en Grant (een ouder echtpaar) leiden een comfortabel leventje op het platteland. Hier komt plotseling verandering in als blijkt dat Fiona aan Alzheimer lijdt.
-Fiona heeft de kracht en moed het besluit te nemen zich te laten opnemen in een verzorgingstehuis. Grant verzet zich hier aanvankelijk tegen, klampt zich vast aan die momenten dat haar geheugen weer terugkeert en hoopt tegen beter weten dat het misschien toch nog goed komt.
-Het verzorgingstehuis heeft een moderne uitstraling en in eerste instantie lijkt alles prima in orde. Fiona krijgt een mooie eigen kamer op de begane grond. De eerste ontmoeting met de directrice is echter geen succes. Zij benadert het allemaal erg instrumenteel. Zo gebruikt ze de term progressie als het gaat om de verdere ontwikkeling van Alzheimer. Ze legt uit dat mensen op een bepaald moment van de begane grond naar de eerste verdieping verhuizen, als ze op de begane grond niet meer te handhaven zijn. Grant is ervan overtuigd dat dit Fiona niet zal overkomen.
-Shockerend was voor mij het volgende. De policy van het verzorgingstehuis is dat partners elkaar de eerste 30 dagen niet mogen zien, zodat de “patient” volledig kan onthechten van de thuissituatie. Als Grant na 30 dagen Fiona voor het eerst opzoekt is deze inmiddels verliefd geworden op Aubrey een andere patient. Ze ziet Grant als een aanbidder die maar niet van ophouden weet. Deze situatie duurt langer dan een jaar.
-Tot groot verdriet van Fiona moet Aubrey het tehuis om financiele redenen verlaten. Vanaf dat moment gaat haar toestand snel achteruit en niet veel later verhuist ze naar de eerste verdieping.....
-
-Dit (kleine) verhaal is verfilmd en uitgebracht onder de Engelse titel: Away from her.
-Voor de trailer zie:
-window.addEvent("domready", function(){var FO1244900529 = { movie:"http://www.youtube.com/v/A9uGBRn2i9Y", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1244900529, "divID1244900529");});

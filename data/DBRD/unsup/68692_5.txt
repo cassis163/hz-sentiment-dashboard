@@ -1,5 +1,0 @@
-Toen ik het boek net uit had gaf ik het vier duimen, maar nu ik het heb laten bezinken moet ik mijn waarde-oordeel herzien en worden het er gewoon vijf.
-Een heel herkenbaar en beklemmend boek. De afgelopen week bleven Frank en April toch steeds in mijn achterhoofd aanwezig en was ik ontzettend benieuwd hoe het met ze af zou lopen. Als een boek dát bij je kan veroorzaken heeft het recht op vijf duimen.
-Zou dát misschien de reden zijn dat het onder de klassiekers valt?
-
-window.addEvent("domready", function(){var FO1271420516 = { movie:"http://www.youtube.com/v/bpra9OEw6nQ", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1271420516, "divID1271420516");});

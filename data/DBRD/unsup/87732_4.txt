@@ -1,6 +1,0 @@
-Een intrigerend verhaal waarin feitelijk de hoofdrol is weggelegd voor een zeer Engels, verwaarloosd en vervallen landhuis: "Hundreds Hall". Het verhaal wordt verteld door de plattelandsdokter Faraday waarvan je kunt zeggen dat hij een zekere obsessie heeft voor het huis en zijn bewoners.
-Het boek leest heel lekker weg en heeft wel een zekere spanning maar ik moet zeggen dat ik het "horror"achtige deel met de mysterieuze vlekken, kloppende geluiden, fluisterende stemmetjes en schuifelende voetstappen na een tijdje wel gehad had.
-Het best beviel me de prachtige sfeertekening van het Engelse platteland waar klasseverschillen groot zijn maar waar de oude adel zijn privileges langzaamaan verliest. Bijvoorbeeld de beschrijvingen van het gedateerde leven op het landgoed, de soiree, het 'uniform' van dienstmeisje Betty, de werkwijze van de dokter.
-
-Kortom: zeker de moeite waard maar de beste Sarah Waters blijft voor mij toch "Vingervlug".
-window.addEvent("domready", function(){var FO1263923236 = { movie:"http://www.youtube.com/v/JAsIWZmqEeE", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1263923236, "divID1263923236");});

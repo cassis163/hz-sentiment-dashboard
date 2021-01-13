@@ -1,9 +1,0 @@
-Een beetje argwanend begon ik aan dit nieuwe boek van Rascha Peper. Argwanend, omdat ik helemaal niet van verhalen houd, want tegen de tijd dat je in het verhaal zit is het alweer zo goed als afgelopen.
-Maar, Peperfan als ik ben, kon het toch niet maken om alleen om deze reden Zwartwaterkoorts niet te lezen.
-
-De verhalen zitten heel goed in elkaar. op subtiele wijze wordt beschreven hoe mensen bedriegen en/of bedrogen worden. Soms zie je het al een beetje aankomen, soms ook helemaal níet. In elk verhaal komen dieren voor, meestal vogels, maar het bijzondere is vooral dat de hoofdpersonen uit het ene verhaal de bijpersonen uit een ander verhaal zijn.
-
-Houd je van Rascha Peper, dan is dit boek zéker een aanrader!
-
-
-window.addEvent("domready", function(){var FO1270898562 = { movie:"http://www.youtube.com/v/XN4ABrxqmec", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1270898562, "divID1270898562");});

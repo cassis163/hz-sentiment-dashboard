@@ -1,9 +1,0 @@
-Wat een bizar boek! De eerste tachtig bladzijden dacht ik dat de achterflap niet klopte met het verhaal dat ik aan het lezen was, maar zo zoetjes aan vielen alle stukjes op zijn plek.
-
-Het zou me niets verbazen als dit in de toekomst ooit werkelijkheid zou worden.
-
-Er gebeuren tenslotte wel gekkere dingen.
-
-window.addEvent("domready", function(){var FO1264148988 = { movie:"http://www.youtube.com/v/zTZlVer4p7c", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1264148988, "divID1264148988");});
-
-Drieëneenhalve duim, maar ik maak er vier van.

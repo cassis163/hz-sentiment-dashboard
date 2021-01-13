@@ -1,5 +1,0 @@
-Ik vond het een mooi boek, mooi taalgebruik ook. Het gedoe met die boeien heb ik overgeslagen. Daar snapte ik niet veel van en het leek me ook niet erg relevant voor de rest van het boek. Het boek speelt zich af in het midden van de jaren zestig. De tv kwam heel voorzichtig de huizen binnen, maar het leven was nog heerlijk eenvoudig. En zo leest het boek eigenlijk ook.
-
-window.addEvent("domready", function(){var FO1288797517 = { movie:"http://www.youtube.com/v/qcOkXkX3KD8", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1288797517, "divID1288797517");});
-
-Deel 2, 3 en 4 zijn ook op You Tube te cvinden.
