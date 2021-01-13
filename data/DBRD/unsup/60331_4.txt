@@ -1,0 +1,6 @@
+De titel van dit boek klinkt zo onschuldig en oppervlakkig, maar laat je daardoor niet misleiden. Het is een indringend verhaal over de gruwelijkheden die begaan worden in Zimbabwe, hoewel je dat eigenlijk meer tussen de regels door leest.
+Ik moet eerlijk bekennen dat ik niet veel wist over de situatie daar, over Mugabe, de ZANU en de Selous Scouts, maar tijdens het lezen heb ik veel gegoogeld en dan wordt alles een stuk duidelijker.
+
+window.addEvent("domready", function(){var FO1310717580 = { movie:"http://www.youtube.com/v/r7t49EvRaFY&feature", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1310717580, "divID1310717580");});
+
+Mooi boek.

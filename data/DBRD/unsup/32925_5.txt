@@ -1,0 +1,5 @@
+Ach, wat een mooi boek toch weer. Vanaf de eerste bladzij leef je mee met het verhaal van Jamie, ben je geneigd zijn vader een schop onder zijn kont te geven, zijn moeder op te bellen om haar op d'r donder te geven, eens lekker met Jas de stad in te gaan om haar te verwennen en Jamie zelf in je armen te sluiten.
+
+Hier kun je een interview lezen met Annabel Pitcher.
+
+window.addEvent("domready", function(){var FO1309765369 = { movie:"http://www.youtube.com/v/Ey5zyh68sgs&feature", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1309765369, "divID1309765369");});

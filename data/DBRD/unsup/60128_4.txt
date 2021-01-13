@@ -1,0 +1,9 @@
+window.addEvent("domready", function(){var FO1303762050 = { movie:"http://www.youtube.com/v/2SDR-4Y_0Es", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1303762050, "divID1303762050");});
+
+Na zo'n mooie trailer begrijp ik niet dat er voor zó'n onflatteuze foto voor de kaft is gekozen. Wat wil dat ene dichte oog zeggen? Is het bedoeld als een knipoog? ("Kom binnen in dit boek vol geheimen waar ik je alles over kan vertellen ?" )
+Géén idee, maar mijns inziens doet het afbreuk aan het boek.
+
+De titel Dochters van het land slaat niet alleen op Dana en Ruth, maar ook op de nieuwe aardbeiensoort die vader Edwin probeerde te ontwikkelen door middel van kruisbestuiving.
+"Het maakte niet uit of je een uitgegraven dochterplant zou overzetten in een bed vlakbij of vijftienhonderd kilometer verderop: elke dochterplant was een exacte genetische kopie van de moeder." (blz. 185/186)
+
+En daarmee weet je eigenlijk al genoeg.

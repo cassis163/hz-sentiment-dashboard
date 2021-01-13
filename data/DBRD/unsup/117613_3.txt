@@ -1,0 +1,3 @@
+Wat een absurd verhaal!
+
+window.addEvent("domready", function(){var FO1284279107 = { movie:"http://www.youtube.com/v/cG-dbkcK3Ic", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1284279107, "divID1284279107");});

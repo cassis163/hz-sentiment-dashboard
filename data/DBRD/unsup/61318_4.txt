@@ -1,0 +1,9 @@
+Dit was een onverwacht mooi boek.
+De tekst op de achterflap is eigenlijk niet volledig.
+Het babydochtertje van Emilia en Edward is overleden en beiden hebben een hele andere manier van het verwerken van dit verlies.
+Het zoontje van Jack en zijn ex-vrouw spelen in dit verhaal overigens wel een hele belangrijke rol.
+Een mooi verhaal over wat een verlies als dit met je relatie kan doen.
+
+Verfilmd als: The other woman
+
+window.addEvent("domready", function(){var FO1310846563 = { movie:"http://www.youtube.com/v/uzTLRdWKah8", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1310846563, "divID1310846563");});

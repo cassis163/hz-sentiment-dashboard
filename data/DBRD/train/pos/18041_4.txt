@@ -1,0 +1,8 @@
+Een graphic novel gemaakt van een animatiedocumentaire (link zie hieronder)
+Ik kan me voorstellen dat de film wat sterker overkomt, alleen al door het effect van de muziek. Toch vond ik deze omzetting behoorlijk indrukwekkend. Een uitleg van hoe het proces van deze omzetting is gegaan, staat achterin het boek vermeld.
+
+Het verhaal wordt verteld vanuit de cineast Ari Folman, hij blijkt te hebben verdrongen wat er is gebeurd tijdens de periode dat hij in 1982 als negentienjarige in dienst was van het Israëlische leger. In die periode vond het bloedbad in de vluchtelingenkampen Sabra en Shatila plaats. Naar aanleiding van een nachtmerrie zoekt hij vrienden op uit die tijd om er achter te komen wat hij eigenlijk zelf allemaal heeft gedaan.
+De waanzin van de oorlog, een beklemmende, onwerkelijke en apocalyptische sfeer wordt opgeroepen.
+Bashir is overigens Bashir Gemayel, de Libanese politicus wiens moord vermoedelijk de reden was voor het bloedbad van Sabra en Shatila.
+
+window.addEvent("domready", function(){var FO1307377985 = { movie:"http://www.youtube.com/v/ylzO9vbEpPg", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1307377985, "divID1307377985");});

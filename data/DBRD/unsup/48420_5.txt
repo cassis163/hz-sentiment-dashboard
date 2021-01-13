@@ -1,0 +1,12 @@
+window.addEvent("domready", function(){var FO1323284837 = { movie:"http://www.youtube.com/v/v8OdKv2k8ew&feature", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1323284837, "divID1323284837");});
+
+Hierboven (hoop ik) een link naar een interview op You Tube met Nele Neuhaus.
+Een bevlogen auteur die met het geld van haar boeken de Nele Neuheus Stichting heeft opgericht, die initiatieven steunt die maken dat kinderen meer gaan lezen!!
+Ze ratelt snel, en zo schrijft ze ook.
+Mijn idee dat dit boek zo verfilmd kan worden, is kennelijk ook bij anderen gerezen. De film komt eraan - zie interview.
+
+Een razend knap geconstrueerde thriller, met heel veel personages en tot op het einde toe plotwendingen.
+Onmiddellijk 5 sterren, van mij.
+Een hele dikke (letterlijk en figuurlijk) aanrader!!
+
+Enige nadeel: uit het verhaal is af te leiden dat de hoofdpersonen eerder zijn opgevoerd. Waarschijnlijk in de vorige boeken van Neuhaus, die nog niet in Nederlandse vertaling zijn uitgegeven?

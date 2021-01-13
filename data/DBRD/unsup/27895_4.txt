@@ -1,0 +1,8 @@
+In de wiskunde bestaan een aantal belangrijke stellingen/vermoedens die nog nooit bewezen zijn. De drie beroemdste onopgeloste wiskundige problemen zijn: het vermoeden van Goldbach, de Riemann-hypothese en de laatste stelling van Fermat (inmiddels bewezen).
+
+In 2000 heeft het Clay Mathematics Institute een lijst opgesteld van zeven onopgeloste problemen en 1 miljoen dollar uitgeloofd voor de oplossing van een van die problemen. In 2003 werd er eentje bewezen maar de betreffende wiskundige (een excentrieke Rus) wilde de prijs niet in ontvangst nemen.
+
+Dit boek verteld over het levenswerk van de wiskundige Petros Papachristos die het op zich had genomen om het vermoeden van Goldbach te bewijzen. Dat stelt: ieder even getal groter dan 2 is te schrijven als de som van twee priemgetallen. Klinkt simpel, maar naar het bewijs wordt dus nog steeds gezocht. De uitgeverij van dit boek loofde als publiciteitsstunt ook een bedrag van 1 miljoen dollar uit aan degene die het bewijs binnen twee jaar na de eerste uitgave zou hebben opgelost. Helaas … niet gelukt.
+
+Op leuke en redelijk simpele wijze worden enkele belangrijke wiskundige principes aan de lezer uitgelegd. Met als scharnierpunt de onvolledigheidsstelling van Gödel. Omdat ik niet wil spoileren, moet je daarvoor het boek zelf maar een keer lezen.
+De moeite waard.

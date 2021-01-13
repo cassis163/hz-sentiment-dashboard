@@ -1,0 +1,5 @@
+Ik vond Visser een erg goed boek. Het leest als een trein. Herhaaldelijk dacht ik :"Man, doe je mond nou eindelijk eens open!", maar gaandeweg het boek begreep ik waarom hij doet zoals hij doet.
+
+
+Als je Visser hebt gelezen en behoefte hebt aan wat meer uitleg is deze site erg geschikt.
+window.addEvent("domready", function(){var FO1263044693 = { movie:"http://www.youtube.com/v/yAZISlx7Qok", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1263044693, "divID1263044693");}); Ook nog even een videootje opgezocht voor de liefhebbers.

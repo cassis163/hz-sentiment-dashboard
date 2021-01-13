@@ -1,0 +1,6 @@
+Schitterend boek, maar ik meen toch een foutje te hebben ontdekt. Op blz. 73 staat namelijk:
+"Laten we alle priemgetallen onder de 100 eens opschrijven," zei de professor een keer toen Wortel klaar was met zijn huiswerk. En met Wortels potlood schreef hij de hele rij getallen op:
+2,3,5,7,11,13,17,21,23,27,29,31,37,41,43,47,53,59,61,71,73,79,83,89,97
+
+Nu weet ik erg weinig van wiskunde, maar volgens mij zijn 21 en 27 geen priemgetallen, want ze zijn niet alleen deelbaar door zichzelf en door 1, maar ook door 3 en 7 ( 21) en 3 en 9 (27).
+Rare fout. Zou die door de vertaalster er in zijn geslopen? Ik kan me haast niet voorstellen dat Ogawa zich daarin vergist heeft...

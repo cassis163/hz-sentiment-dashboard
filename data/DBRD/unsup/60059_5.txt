@@ -1,0 +1,6 @@
+Wat moet ik nog toevoegen na alle voorgaande reacties? Helemaal niets. Je wilt dóórlezen, maar tegelijkertijd wil je het boek niet uit hebben.
+Dit boek is geweldig. Onnavolgbaar. Humoristisch. Ontzettend droevig. Ontroerend. Menselijk. Onmenselijk. Fantastisch. Schitterend.
+
+window.addEvent("domready", function(){var FO1274470128 = { movie:"http://www.youtube.com/v/7Se2Ss1ztsU", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1274470128, "divID1274470128");});
+
+Kijk ook even op deze site.

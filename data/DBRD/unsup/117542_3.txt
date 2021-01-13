@@ -1,0 +1,4 @@
+Mijn eerste boek van Sarah Waters was Fluwelen begeerte en daar was ik, ondanks het feit dat ik het na het 1e deel wat vond inzakken, zeer positief over.
+Daarom begon ik ook met veel enthousiasme aan Vingervlug. Ook dit boek bestaat uit drie delen en ook hier had ik het gevoel dat het eerste deel het beste was. Ondanks het feit dat je telkens voor verrassingen kwam te staan vond ik het einde toch wel enigszins voorspelbaar en deel 2 en 3 hadden wat mij betreft aardig ingekort mogen worden.
+
+window.addEvent("domready", function(){var FO1279552734 = { movie:"http://www.youtube.com/v/uKOpYsb_LEc", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1279552734, "divID1279552734");});

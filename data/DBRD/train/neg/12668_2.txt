@@ -1,0 +1,6 @@
+window.addEvent("domready", function(){var FO1328981013 = { movie:"http://www.youtube.com/v/XQ62ATCHunA", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1328981013, "divID1328981013");});
+
+Hoewel ik het "Alzheimergedrag" vaak kon herkennen, had ik toch wel moeite met zinnen als: ‘Medisch gezien was dat niet met zekerheid te zeggen. Cardiomyopathie,
+veroorzaakt door mitralisinsuffi ciëntie, of hoofdletsel kunnen
+hem allebei fataal zijn geworden."
+Als je op een briefje hebt staan hoe je zoon en dochter heten, kun je dit soort zinnen dan nog wel uitspreken?

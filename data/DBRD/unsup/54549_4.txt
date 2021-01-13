@@ -1,0 +1,2 @@
+Als je een liefhebber bent van YA (Young Adult) boeken, is No en ik zeker een aanrader.
+window.addEvent("domready", function(){var FO1310286481 = { movie:"http://www.youtube.com/v/TU6YWYQbnGk", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1310286481, "divID1310286481");});

@@ -1,0 +1,3 @@
+Ik moet eerlijk bekennen dat mijn vier duimen te danken zijn aan het zien van de film ná het lezen van het boek. Het boek vond ik behoorlijk saai, de film is in één woord fantastisch. Dus drie + vijf maakt vier!
+
+window.addEvent("domready", function(){var FO1260115099 = { movie:"http://www.youtube.com/v/3BjTmALY3hc", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1260115099, "divID1260115099");});

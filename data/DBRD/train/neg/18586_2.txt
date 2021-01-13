@@ -1,0 +1,3 @@
+Ik vond Tikkop erg afstandelijk geschreven en vroeg me af wanneer Van Dis eindelijk eens to the point kwam. Het boek begon mij pas na zo'n 165 bladzijden te boeien, wat erg laat is als er daarna nog maar zestig bladzijden resten. Pas dan ook wordt duidelijk waarom het deze titel heeft.
+
+window.addEvent("domready", function(){var FO1306262081 = { movie:"http://www.youtube.com/v/FbLWgRRaDaI", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1306262081, "divID1306262081");});

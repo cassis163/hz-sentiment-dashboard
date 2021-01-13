@@ -1,0 +1,5 @@
+Een spannend debuut dat gedeeltelijk fictie is maar wel gebaseerd op een waargebeurd feit (neerstorten van een Amerikaanse bommenwerper op Groenland). In deze eco-thriller (je zou het ook een avonturenroman kunnen noemen) zijn twee verhaallijnen ( uit 1968 en 2006) mooi met elkaar verweven. Goede opbouw en spannend tot het einde.
+
+De schrijver heeft er een filmpje over gemaakt.
+
+window.addEvent("domready", function(){var FO1282161117 = { movie:"http://www.youtube.com/v/qj4MDtLcnXc", width:"300", height:"247", majorversion:"8", build:"0", xi:"true" };UFO.create(FO1282161117, "divID1282161117");});
